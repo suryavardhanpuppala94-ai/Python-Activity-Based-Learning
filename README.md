@@ -63,7 +63,7 @@ No external Python packages are required for the example programs in this assign
 1. Install Python 3 if it is not already installed.
 2. Clone or download this repository.
 3. Open the folder in your preferred code editor.
-4.Run the program.
+4. Run the program.
 
  Learning Outcomes
 
